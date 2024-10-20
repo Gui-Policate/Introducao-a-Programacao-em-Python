@@ -1,3 +1,4 @@
+
 resposta = "S"
 while resposta == "S":
     print ("Olá essa é uma calculadora de Tabuadas!")
